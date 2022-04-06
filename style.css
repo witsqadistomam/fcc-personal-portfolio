@@ -1,5 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Poppins:wght@400;700&display=swap");
+
 body {
   background-color: #273036;
+  font-family: Poppins, sans-serif;
 }
 
 .jumbotron {
@@ -21,7 +24,8 @@ body {
 }
 
 .contact-details {
-  font-size: 2.4rem;
+  margin-top: 3rem;
+  font-size: 2rem;
   text-shadow: 2px 2px 1px #1f1f1f;
   transition: transform 0.3s ease-out;
 }
